@@ -11,3 +11,4 @@ Small, dependency-free Python projects that run in the terminal.
 - `number_guessing_game.py` - Guess the hidden number before your attempts run out.
 - `number_guessing_game.py` - Guess a secret number across three difficulty levels.
 - `stopwatch.py` - Use a stopwatch or countdown timer.
+- `treasure_hunt.py` - Explore a hidden map and find the treasure before your moves run out.
